@@ -24,9 +24,9 @@ const autoRefreshOptions: AutoRefreshOption[] = [
     type: AutoRefreshOptionType.Option,
   },
   {
-    id: 'auto-refresh-0.1s',
-    milliseconds: 100,
-    label: '0.1s',
+    id: 'auto-refresh-0.2s',
+    milliseconds: 200,
+    label: '0.2s',
     type: AutoRefreshOptionType.Option,
   },
   {
